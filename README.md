@@ -19,7 +19,7 @@ lambda_function.py
 
 **Step 3:** Enhance the Robo Advisor with an Amazon Lambda Function: Create an Amazon Lambda function that validates the user's input and returns the investment portfolio recommendation. This task includes testing the Amazon Lambda function and making the integration with the bot.
 
-**[Robo Advisor Demo]**(https://www.loom.com/share/d53beca0d4584d01a680537e54b9b0b3)
+## [Robo Advisor Demo](https://www.loom.com/share/d53beca0d4584d01a680537e54b9b0b3)
 
 ![image](https://user-images.githubusercontent.com/99493522/172058616-ba3bfc05-6af6-4748-9c39-29eece08796c.png)
 

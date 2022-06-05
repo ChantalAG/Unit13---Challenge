@@ -8,7 +8,7 @@
 Machine Learning and NLP (Natural Language Processes) are used to improve the customer experience by retirement plan providers. This assignment will create a Robo Advisor using [Amazon Web Services (AWS)](https://aws.amazon.com/) that could be used by customers or potential new customers to get investment portfolio recommendations for retirement. 
 
 ## Resources
-lambda_function.py
+[lambda_function.py](https://github.com/ChantalAG/Unit13---Challenge/blob/main/RoboAdvisor/lambda_function.py)
 
 ## Robo Advisor
 **Step 1:** Initial Robo Advisor Configuration: Define an Amazon Lex bot with a single intent that establishes a conversation about the requirements to suggest an investment portfolio for retirement.
